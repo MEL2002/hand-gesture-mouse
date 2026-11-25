@@ -1,0 +1,6 @@
+.venv/
+venv/
+__pycache__/
+*.pyc
+my_screenshot_*.png
+.vscode/
